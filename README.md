@@ -3,10 +3,10 @@ Bu repoda C++ diline yeni başlayanlar için başlangıç aşamasında yapılabi
 
 ## Değişkenler, Koşul Durumlar
 
-**[Merhaba Dünya:](https://github.com/x0Deniz/java-basic-projects/blob/main/MerhabaDunya.java)** Ekrana "Merhaba Dünya" yazdıran java kodunu yazınız.  
-**[Değişken Değeri:](https://github.com/x0Deniz/java-basic-projects/blob/main/DegiskenDegeri.java)** Intager tipinde bir değişken oluşturun ve ekrana değişkenin değerini yazan java kodunu yazınız.  
-**[Ekrandan Sayı Okuma:](https://github.com/x0Deniz/java-basic-projects/blob/main/EkrandanSayiOku.java)** Ekrandan bir sayı okuyup, bu sayıyı tekrar ekrana yazdıran kodu yazınız.  
-**[Dört İşlem:](https://github.com/x0Deniz/java-basic-projects/blob/main/DortIslem.java)** Kullanıcının girdiği iki sayıya dört işlem uygulayarak (toplama, çıkarma, çarpma, bölme) sonuçlarını ekrana yazdıran java kodunu yazınız.  
+**[Merhaba Dünya:](https://github.com/bugresearch/cpp-basic-projects/blob/main/MerhabaDunya.cpp)** Ekrana "Merhaba Dünya" yazdıran java kodunu yazınız.  
+**[Değişken Değeri:](https://github.com/bugresearch/cpp-basic-projects/blob/main/DegiskenDegeri.cpp)** Intager tipinde bir değişken oluşturun ve ekrana değişkenin değerini yazan java kodunu yazınız.  
+**[Ekrandan Sayı Okuma:](https://github.com/bugresearch/cpp-basic-projects/blob/main/EkrandanSayiOkuma.cpp)** Ekrandan bir sayı okuyup, bu sayıyı tekrar ekrana yazdıran kodu yazınız.  
+**[Dört İşlem:](https://github.com/bugresearch/cpp-basic-projects/blob/main/DortIslem.cpp)** Kullanıcının girdiği iki sayıya dört işlem uygulayarak (toplama, çıkarma, çarpma, bölme) sonuçlarını ekrana yazdıran java kodunu yazınız.  
 **[Harf Notu Hesaplama:](https://github.com/x0Deniz/java-basic-projects/blob/main/HarfNotu.java)** Kullanıcının 0-100 aralığında girmiş olduğu nota göre harf notunu bulunuz (A: 100-90, B: 90 - 80, C: 80 - 70, F: 70 - 0 olarak kabul edebilirsiniz)  
 **[İki Sayıyı Karşılaştır:](https://github.com/x0Deniz/java-basic-projects/blob/main/IkiSayiKarsilastir.java)** Kullanıcının girmiş olduğu iki sayıyı büyüklük, küçüklük ve eşitlik yönlerinden inceleyen java kodunu yazınız.  
 **[Üç Sayıyı Karşılaştır:](https://github.com/x0Deniz/java-basic-projects/blob/main/UcSayiEnBuyuk.java)** Kullanıcının girmiş olduğu üç sayıdan en büyük ve en küçük olanlarını bulup ekrana yazdıran java kodunu yazınız.  
